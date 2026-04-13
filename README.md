@@ -17,7 +17,7 @@ PPO reduced toxicity by 60% while fully preserving summarization quality (ROUGE-
 
 ## Pipeline
 
-![pipeline](C:\Users\cuina\Downloads\pipeline.png)  
+![pipeline](pipeline.png)  
 
 ### Stage 1: Supervised Fine-Tuning (SFT)
 
